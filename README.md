@@ -1,4 +1,4 @@
-best_practices
-==============
+Dont Repeat Yourself
+====================
 
-Coding best practices in JavaScript , HTML , CSS , PHP , MySQL
+Reusable elements in html , css , javascript , php , mysql 
